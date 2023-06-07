@@ -29,34 +29,19 @@ void PrintMatrix(int[,] array)
     }
 }
 
-void ChangeRowsInMatrix(int[,] arr)
-{
-    int[,] arrFirst = new int[2, arr.GetLength(1)];
-    for (int i = 0; i < 1; i++)
-    {
-        for (int j = 0; j < arr.GetLength(1); j++)
-        {
-            arrFirst[i, j] = arr[i, j];
-        }
-    }
-    for (int i = arr.GetLength(0) - 1; i < arr.GetLength(0); i++)
-    {
-        for (int j = 0; j < arr.GetLength(1); j++)
-        {
-            arr[0, j] = arr[i, j];
-            arr[i, j] = arrFirst[0, j];
-        }
-    }
-}
-
 void ChangeRowsInMatrix2(int[,] arr)
 {
-    int[,] arrFirst = new int[2, arr.GetLength(1)];
+    int temp;
     for (int i = 0; i < 1; i++)
     {
         for (int j = 0; j < arr.GetLength(1); j++)
         {
-            arrFirst[i, j] = arr[i, j];
+            if (i == 0)
+            {
+                temp = arr[i, j];
+                arr[i, j] = arr[arr.GetLength(0) - 1, j];
+                arr[arr.GetLength(0) - 1, j] = temp;
+            }
         }
     }
 }
@@ -69,5 +54,5 @@ int[,] array = new int[m, n];
 FillMatrix(array);
 PrintMatrix(array);
 Console.WriteLine();
-ChangeRowsInMatrix(array);
+ChangeRowsInMatrix2(array);
 PrintMatrix(array);
