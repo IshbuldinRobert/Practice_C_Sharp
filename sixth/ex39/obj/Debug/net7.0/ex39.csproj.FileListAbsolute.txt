@@ -1,0 +1,15 @@
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.csproj.AssemblyReference.cache
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.AssemblyInfoInputs.cache
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.AssemblyInfo.cs
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.csproj.CoreCompileInputs.cache
+C:\Study\C#\practice\sixth\ex39\bin\Debug\net7.0\ex39.exe
+C:\Study\C#\practice\sixth\ex39\bin\Debug\net7.0\ex39.deps.json
+C:\Study\C#\practice\sixth\ex39\bin\Debug\net7.0\ex39.runtimeconfig.json
+C:\Study\C#\practice\sixth\ex39\bin\Debug\net7.0\ex39.dll
+C:\Study\C#\practice\sixth\ex39\bin\Debug\net7.0\ex39.pdb
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.dll
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\refint\ex39.dll
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.pdb
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ex39.genruntimeconfig.cache
+C:\Study\C#\practice\sixth\ex39\obj\Debug\net7.0\ref\ex39.dll

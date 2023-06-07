@@ -1,0 +1,15 @@
+C:\Study\C#\practice\sixth\ex42\bin\Debug\net7.0\ex42.exe
+C:\Study\C#\practice\sixth\ex42\bin\Debug\net7.0\ex42.deps.json
+C:\Study\C#\practice\sixth\ex42\bin\Debug\net7.0\ex42.runtimeconfig.json
+C:\Study\C#\practice\sixth\ex42\bin\Debug\net7.0\ex42.dll
+C:\Study\C#\practice\sixth\ex42\bin\Debug\net7.0\ex42.pdb
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.csproj.AssemblyReference.cache
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.AssemblyInfoInputs.cache
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.AssemblyInfo.cs
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.csproj.CoreCompileInputs.cache
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.dll
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\refint\ex42.dll
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.pdb
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ex42.genruntimeconfig.cache
+C:\Study\C#\practice\sixth\ex42\obj\Debug\net7.0\ref\ex42.dll
