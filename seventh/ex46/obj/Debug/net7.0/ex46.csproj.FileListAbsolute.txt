@@ -1,0 +1,15 @@
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.csproj.AssemblyReference.cache
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.AssemblyInfoInputs.cache
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.AssemblyInfo.cs
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.csproj.CoreCompileInputs.cache
+C:\Study\C#\practice\seventh\ex46\bin\Debug\net7.0\ex46.exe
+C:\Study\C#\practice\seventh\ex46\bin\Debug\net7.0\ex46.deps.json
+C:\Study\C#\practice\seventh\ex46\bin\Debug\net7.0\ex46.runtimeconfig.json
+C:\Study\C#\practice\seventh\ex46\bin\Debug\net7.0\ex46.dll
+C:\Study\C#\practice\seventh\ex46\bin\Debug\net7.0\ex46.pdb
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.dll
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\refint\ex46.dll
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.pdb
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ex46.genruntimeconfig.cache
+C:\Study\C#\practice\seventh\ex46\obj\Debug\net7.0\ref\ex46.dll
